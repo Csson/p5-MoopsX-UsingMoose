@@ -95,6 +95,10 @@ Happiness ensues.
 - [Moose](https://metacpan.org/pod/Moose)
 - [Moo](https://metacpan.org/pod/Moo)
 
+# SOURCE
+
+[https://github.com/Csson/p4-MoopsX-UsingMoose](https://github.com/Csson/p4-MoopsX-UsingMoose)
+
 # HOMEPAGE
 
 [https://metacpan.org/release/MoopsX-UsingMoose](https://metacpan.org/release/MoopsX-UsingMoose)
