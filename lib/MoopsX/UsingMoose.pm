@@ -32,7 +32,7 @@ __END__
 
     class My::Class {
 
-        # This is a Moose class
+        # A Moose based class
 
     }
 
@@ -53,7 +53,7 @@ While this on the surface doesn't save any keystrokes it reduces cluttering of C
      with This::Role
     using Moose {
 
-        ...
+        # A Moose based class
 
     }
 
@@ -69,7 +69,7 @@ The first step is to get rid of C<using Moose>:
           Types::MyCustomTypes
      with This::Role {
 
-        ...
+        # A Moose based class
 
     }
 
@@ -103,7 +103,7 @@ And the C<class> statement becomes:
 
     class My::Project::Class with This::Role {
 
-        ...
+        # A Moose based class, still with all the types
 
     }
 
