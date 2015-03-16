@@ -111,13 +111,13 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/Csson/p4-MoopsX-UsingMoose/issues"
+         "web" : "https://github.com/Csson/p5-MoopsX-UsingMoose/issues"
       },
       "homepage" : "https://metacpan.org/release/MoopsX-UsingMoose",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/Csson/p4-MoopsX-UsingMoose.git",
-         "web" : "https://github.com/Csson/p4-MoopsX-UsingMoose"
+         "url" : "https://github.com/Csson/p5-MoopsX-UsingMoose.git",
+         "web" : "https://github.com/Csson/p5-MoopsX-UsingMoose"
       }
    },
    "version" : "0.0001"
