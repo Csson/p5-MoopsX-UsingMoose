@@ -87,6 +87,13 @@
             "Test::Warnings" : "0"
          }
       },
+      "runtime" : {
+         "requires" : {
+            "Moo::Role" : "0",
+            "Moops" : "0.034",
+            "perl" : "5.014000"
+         }
+      },
       "test" : {
          "recommends" : {
             "CPAN::Meta" : "2.120900"

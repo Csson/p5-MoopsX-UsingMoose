@@ -4,6 +4,13 @@ doctype: dist
 header:
   name: MoopsX-UsingMoose
 
+prereqs:
+  runtime:
+    requires:
+      - perl: 5.014000
+      - Moo::Role
+      - Moops: 0.034
+
 plugins:
  - +config: Author::CSSON
 
