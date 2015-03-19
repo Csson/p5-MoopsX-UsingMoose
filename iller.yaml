@@ -10,6 +10,9 @@ prereqs:
       - perl: 5.014000
       - Moo::Role
       - Moops: 0.034
+  test:
+    requires:
+      - Moose: 2.000
 
 plugins:
  - +config: Author::CSSON

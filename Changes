@@ -1,4 +1,24 @@
 Revision history for MoopsX-UsingMoose
 
 {{$NEXT}}
-     - Initial release
+ [API Changes]
+
+ [Bug Fixes]
+
+ [Documentation]
+
+ [Enhancements]
+
+ [Meta]
+
+ [New Features]
+
+ [Requirements]
+ - Listed Moose as a test prereq.
+
+ [Revision]
+
+ [Testing]
+
+0.0100 2015-03-16T20:09:50Z CET
+ - Initial release

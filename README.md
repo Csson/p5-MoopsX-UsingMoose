@@ -4,7 +4,7 @@ MoopsX::UsingMoose - A Moops that uses Moose
 
 # VERSION
 
-Version 0.0001, released 2015-03-16.
+Version 0.0101, released 2015-03-19.
 
 # SYNOPSIS
 

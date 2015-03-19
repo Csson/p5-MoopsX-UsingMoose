@@ -101,6 +101,7 @@
          "requires" : {
             "ExtUtils::MakeMaker" : "0",
             "File::Spec" : "0",
+            "Moose" : "2.000",
             "Test::More" : "0.96"
          }
       }
@@ -108,11 +109,11 @@
    "provides" : {
       "MoopsX::TraitFor::Parser::UsingMoose" : {
          "file" : "lib/MoopsX/TraitFor/Parser/UsingMoose.pm",
-         "version" : "0.0001"
+         "version" : "0.0101"
       },
       "MoopsX::UsingMoose" : {
          "file" : "lib/MoopsX/UsingMoose.pm",
-         "version" : "0.0001"
+         "version" : "0.0101"
       }
    },
    "release_status" : "stable",
@@ -127,6 +128,6 @@
          "web" : "https://github.com/Csson/p5-MoopsX-UsingMoose"
       }
    },
-   "version" : "0.0001"
+   "version" : "0.0101"
 }
 
