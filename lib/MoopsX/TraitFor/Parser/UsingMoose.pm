@@ -4,8 +4,9 @@ use warnings;
 
 package MoopsX::TraitFor::Parser::UsingMoose;
 
-# VERSION:
 # ABSTRACT: A Moops::Parser traits that sets 'using Moose'
+# AUTHORITY
+our $VERSION = '0.0102';
 
 use Moo::Role;
 

@@ -2,22 +2,22 @@ use 5.14.0;
 use strict;
 use warnings;
 
-# VERSION:
+package MoopsX::UsingMoose;
+
 # ABSTRACT: A Moops that uses Moose
+# AUTHORITY
+our $VERSION = '0.0102';
 
-package MoopsX::UsingMoose {
+use base 'Moops';
 
-    use base 'Moops';
+sub import {
+    my $class = shift;
+    my %opts = @_;
 
-    sub import {
-        my $class = shift;
-        my %opts = @_;
-
-        push @{ $opts{'traits'} ||= [] } => (
-            'MoopsX::TraitFor::Parser::UsingMoose',
-        );
-        $class->SUPER::import(%opts);
-    }
+    push @{ $opts{'traits'} ||= [] } => (
+        'MoopsX::TraitFor::Parser::UsingMoose',
+    );
+    $class->SUPER::import(%opts);
 }
 
 1;
