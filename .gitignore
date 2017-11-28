@@ -1,7 +1,12 @@
-/MoopsX-UsingMoose-*
+# This file was auto-generated from iller.yaml by Dist::Iller on 2017-11-28 20:53:22 UTC.
+# The following configs were used:
+# * Dist::Iller::Config::Author::CSSON: 0.0319
+
 /.build
 /_build*
 /Build
 MYMETA.*
 !META.json
 /.prove
+/MoopsX-UsingMoose-*
+.coverhistory.json

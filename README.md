@@ -2,9 +2,19 @@
 
 MoopsX::UsingMoose - A Moops that uses Moose
 
+<div>
+    <p>
+    <img src="https://img.shields.io/badge/perl-5.14+-blue.svg" alt="Requires Perl 5.14+" />
+    <a href="https://travis-ci.org/Csson/p5-MoopsX-UsingMoose"><img src="https://api.travis-ci.org/Csson/p5-MoopsX-UsingMoose.svg?branch=master" alt="Travis status" /></a>
+    <a href="http://cpants.cpanauthors.org/release/CSSON/MoopsX-UsingMoose-0.0102"><img src="http://badgedepot.code301.com/badge/kwalitee/CSSON/MoopsX-UsingMoose/0.0102" alt="Distribution kwalitee" /></a>
+    <a href="http://matrix.cpantesters.org/?dist=MoopsX-UsingMoose%200.0102"><img src="http://badgedepot.code301.com/badge/cpantesters/MoopsX-UsingMoose/0.0102" alt="CPAN Testers result" /></a>
+    <img src="https://img.shields.io/badge/coverage-97.4%-yellow.svg" alt="coverage 97.4%" />
+    </p>
+</div>
+
 # VERSION
 
-Version 0.0101, released 2015-03-19.
+Version 0.0102, released 2017-11-28.
 
 # SYNOPSIS
 
@@ -109,7 +119,7 @@ Erik Carlsson <info@code301.com>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2015 by Erik Carlsson <info@code301.com>.
+This software is copyright (c) 2016 by Erik Carlsson.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
