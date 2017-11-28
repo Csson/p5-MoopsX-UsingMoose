@@ -6,7 +6,7 @@ package MoopsX::TraitFor::Parser::UsingMoose;
 
 # ABSTRACT: A Moops::Parser traits that sets 'using Moose'
 # AUTHORITY
-our $VERSION = '0.0102';
+our $VERSION = '0.0103';
 
 use Moo::Role;
 

@@ -6,7 +6,7 @@ package MoopsX::UsingMoose;
 
 # ABSTRACT: A Moops that uses Moose
 # AUTHORITY
-our $VERSION = '0.0102';
+our $VERSION = '0.0103';
 
 use base 'Moops';
 
