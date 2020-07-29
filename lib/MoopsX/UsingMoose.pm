@@ -36,9 +36,14 @@ __END__
 
     }
 
+=head1 STATUS
+
+Do note the inherent L<issues|Moops/"STATUS"> with using L<Moops>.
+
 =head1 DESCRIPTION
 
 This is a thin wrapper around L<Moops> that automatically adds C<using Moose> to C<role> and C<class> statements. It does this by applying the included L<MoopsX::TraitFor::Parser::UsingMoose> C<Moops::Parser> trait.
+
 
 =head2 Rationale
 
